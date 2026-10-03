@@ -3,8 +3,10 @@
 An Elm 0.19.2 app for two people buying a home together, where one may bring a
 bigger down payment and the other may have more monthly cash flow. Enter each
 co-buyer's down payment along with the home price and loan terms, and it splits
-the monthly mortgage bill so both have contributed the same total (down payment
-+ all monthly payments) by the end of the loan.
+the monthly mortgage bill so both have contributed the same total (down
+payment plus all monthly payments) by the end of the loan.
+
+**Try it:** https://hinkelman.github.io/mortgage-calculator/
 
 ## Build and run
 
