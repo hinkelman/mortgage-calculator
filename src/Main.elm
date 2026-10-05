@@ -396,7 +396,7 @@ view model =
                 [ text "A co-buyer's contribution is their down payment plus the sum of their monthly payments over the full term. "
                 , text "The home is owned 50/50. Whoever puts down more has covered part of the other's half of the down payment; that amount is treated as an internal loan, repaid through a fixed extra monthly payment on top of an even split of the bill, so the two payments always add up to the bill. "
                 , text "On a sale, the equity (sale price minus selling costs and the mortgage payoff) is split evenly and whatever is left of the internal loan is settled from the borrower's half. "
-                , text "The comparison is in nominal dollars: it ignores the time value of money, home appreciation, closing costs, maintenance, and selling before the loan ends. "
+                , text "All amounts are in nominal dollars: they ignore the time value of money, closing costs at purchase, and maintenance. Appreciation and selling costs apply only to the sale estimate. "
                 , text "PMI applies when the loan is above 80% of the price and stops once the scheduled balance reaches 78%."
                 ]
             ]
